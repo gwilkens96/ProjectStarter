@@ -54,7 +54,7 @@ function Footer() {
       <div class="col">
         <h4 style={{ color: "#f7f3e3" }}>
           Griffin is a Georgia Tech alumnus with certification in full stack web
-          development. Thanks for choosing Griffin for your web dev needs. Let's
+          development. Thank you for choosing us for your web dev needs. Let's
           get this fire started!
         </h4>
       </div>
